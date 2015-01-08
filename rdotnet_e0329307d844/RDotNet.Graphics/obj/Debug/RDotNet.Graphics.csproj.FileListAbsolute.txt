@@ -1,0 +1,12 @@
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.Graphics.XML
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.Graphics.dll
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.Graphics.pdb
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.dll
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.NativeLibrary.dll
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.pdb
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.xml
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.NativeLibrary.pdb
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\bin\Debug\RDotNet.NativeLibrary.xml
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\obj\Debug\RDotNet.Graphics.csprojResolveAssemblyReference.cache
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\obj\Debug\RDotNet.Graphics.dll
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.Graphics\obj\Debug\RDotNet.Graphics.pdb

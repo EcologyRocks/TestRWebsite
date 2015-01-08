@@ -1,0 +1,5 @@
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.NativeLibrary\bin\Debug\RDotNet.NativeLibrary.XML
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.NativeLibrary\bin\Debug\RDotNet.NativeLibrary.dll
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.NativeLibrary\bin\Debug\RDotNet.NativeLibrary.pdb
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.NativeLibrary\obj\Debug\RDotNet.NativeLibrary.dll
+D:\transfer\KiLiCode\rdotnet_e0329307d844\RDotNet.NativeLibrary\obj\Debug\RDotNet.NativeLibrary.pdb
